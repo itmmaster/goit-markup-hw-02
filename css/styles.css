@@ -1,3 +1,4 @@
+/* =========== Common styles =========== */
 body {
  font-family: 'Roboto', sans-serif;   
  color: #2E2F42;
@@ -19,14 +20,16 @@ button {
 img {
     display: block;
 }
+/* =========== /Common styles =========== */
 
+/* =========== Page Header styles =========== */
 .logo {
     font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.16667;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 } 
 .text-color {
     color: #4d5ae5;
@@ -36,15 +39,26 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42
+    color: #2e2f42;
 }
-.adr-page-header .menu-link {
+.menu-link:hover,
+.menu-link:focus {
+    color: #404bbf;
+}
+.menu-adress-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 } 
+.menu-adress-link:hover,
+.menu-adress-link:focus {
+    color: #404bbf;
+}
+/* =========== /Page Header styles =========== */
+
+/* =========== Hero Section styles =========== */
 .hero {
     background-color: #2e2f42;
 }
@@ -63,6 +77,9 @@ img {
     color: #fff;
     background-color:#4d5ae5;
 }
+/* =========== /Hero Section styles =========== */
+
+/* =========== Options Section styles =========== */
 .options-list-title {
     font-weight: 500;
     font-size: 20px;
@@ -76,6 +93,9 @@ img {
     letter-spacing: 0.02em;
     color: #434455;
 }
+/* =========== /Options Section styles =========== */
+
+/* =========== Our Team Section styles =========== */
 .our-team-sect {
     background-color: #f4f4fd;
 }
@@ -101,6 +121,9 @@ img {
     letter-spacing: 0.02em;
     color: #434455;
 }
+/* =========== /Our Team Section styles =========== */
+
+/* =========== Our Portfolio Section styles =========== */
 .our-portfolio-title {
     font-weight: 700;
     font-size: 36px;
@@ -119,6 +142,9 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+/* =========== /Our Portfolio Section styles =========== */
+
+/* =========== Footer styles =========== */
 .page-footer {
     background-color: #2e2f42;
 }
@@ -138,3 +164,4 @@ img {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+/* =========== /Footer styles =========== */
