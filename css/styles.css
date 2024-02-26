@@ -167,6 +167,9 @@ img {
     text-transform: uppercase;
     color:#4d5ae5;
 }
+.text-color-footer {
+    color: #f4f4fd;
+}
 .page-footer-text {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
