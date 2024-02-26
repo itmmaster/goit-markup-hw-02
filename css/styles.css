@@ -135,6 +135,7 @@ img {
 .our-portfolio-title {
     font-weight: 700;
     font-size: 36px;
+    text-align: center
     line-height: 1.11;
     letter-spacing: 0.02em;
 }
