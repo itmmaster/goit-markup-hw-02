@@ -77,6 +77,10 @@ img {
     color: #fff;
     background-color:#4d5ae5;
 }
+.btn-order-serv:hover,
+.btn-order-serv:focus {
+    background-color: #404bbf;
+}
 /* =========== /Hero Section styles =========== */
 
 /* =========== Options Section styles =========== */
