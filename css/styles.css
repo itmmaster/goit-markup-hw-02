@@ -143,6 +143,7 @@ img {
 .our-portfolio-list-title {
     font-weight: 500;
     font-size: 20px;
+    text-transform: capitalize
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
