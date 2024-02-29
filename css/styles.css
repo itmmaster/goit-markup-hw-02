@@ -43,6 +43,9 @@ button {
 .menu-link:focus {
     color: #404bbf;
 }
+.adr-page-header {
+    font-style: normal;
+}
 .menu-adress-link {
     font-weight: 400;
     font-size: 16px;
