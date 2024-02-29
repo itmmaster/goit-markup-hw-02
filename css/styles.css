@@ -105,7 +105,7 @@ button {
 
 /* =========== Our Team Section styles =========== */
 .our-team-sect {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .our-team-list {
     background-color: #FFFFFF;
@@ -119,6 +119,9 @@ button {
     text-transform: capitalize;
     line-height: 1.11;
     letter-spacing: 0.02em;
+}
+.our-team-list-item {
+    background-color: #FFFFFF;
 }
 .our-team-list-title {
     background-color: #FFFFFF;
